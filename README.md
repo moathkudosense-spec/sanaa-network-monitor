@@ -15,9 +15,9 @@
 <!-- Badges for Instant Trust -->
 <p>
   <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:m3azqatenah@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://yourportfolio.dev"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=aboutdotme&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=blueviolet" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=moathkudosense-spec&style=for-the-badge&color=blueviolet" alt="Profile views"/>
 </p>
 
 </div>
