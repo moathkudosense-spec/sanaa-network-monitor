@@ -26,14 +26,10 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
 <br/>
 
 <!-- ✨ Tech Universe (glowing style) -->
-<h2 align="center">💎 My Tech Universe</h2>
+<h2 align="center">💎</h2>
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,python,go,react,nextjs,nodejs,express,nest,flask,graphql,mongodb,postgres,redis,docker,kubernetes,aws,gcp,githubactions,terraform,figma,linux&perline=11" />
@@ -48,10 +44,10 @@
 <div align="center">
   <!-- Stats and Streak Side-by-Side -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_color=00C9FF&border_radius=15"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=moathkudosense-spec&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_color=00C9FF&border_radius=15"/>
   </a>
   <a href="https://git.io/streak-stats">
-    <img height="180em" src="https://streak-stats.demolab.com?user=yourusername&theme=radical&border_radius=15&border=00C9FF&fire=FF6E96&ring=00C9FF&currStreakLabel=00C9FF"/>
+    <img height="180em" src="https://streak-stats.demolab.com?user=moathkudosense-spec&theme=radical&border_radius=15&border=00C9FF&fire=FF6E96&ring=00C9FF&currStreakLabel=00C9FF"/>
   </a>
 </div>
 
@@ -60,7 +56,7 @@
 <div align="center">
   <!-- Top Languages (Compressed) -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&border_color=00C9FF&border_radius=15&langs_count=10"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moathkudosense-spec&layout=compact&theme=radical&border_color=00C9FF&border_radius=15&langs_count=10"/>
   </a>
   <!-- Contribution Graph (Dynamic, animated) -->
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
@@ -143,7 +139,6 @@
 
 <!-- ☕ Support / Connect -->
 <div align="center">
-  <h4>⭐ Love what you see? Let's build together.</h4>
   <a href="https://github.com/yourusername?tab=followers">
     <img src="https://img.shields.io/github/followers/yourusername?label=Follow&style=social"/>
   </a>
